@@ -76,7 +76,7 @@ class _MainScreenState extends State<MainScreen> {
         ),
       ),
       floatingActionButton: FloatingActionButton(onPressed: createNewTask,
-      child: Image.asset('assets/shooky.png'),
+      child: Image.asset('assets/shookboy.png'),
       ),
       body: ListView.builder(
         itemCount: db.toDoList.length,
