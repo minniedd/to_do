@@ -71,7 +71,7 @@ class _MainScreenState extends State<MainScreen> {
         centerTitle: true,
         backgroundColor: Colors.black,
         title: const Text(
-          "shooky's tasks",
+          "shookboy's tasks",
           style: TextStyle(color: Colors.white,fontWeight: FontWeight.w800),
         ),
       ),
