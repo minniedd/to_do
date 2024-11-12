@@ -8,8 +8,8 @@ class ToDoDataBase {
 
   void createInitialData() {
     toDoList = [
-      ["Love RJ", false],
-      ["Annoy Chimmy", false]
+      ["Love rj-guy", false],
+      ["Annoy chimchim", false]
     ];
   }
 
